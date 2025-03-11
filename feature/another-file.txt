@@ -1,4 +1,6 @@
-Just another file in the feature branch
+This line was modiifed in feature-2 branch
 
 This line was added in local/feature
 This line was added in origin/feature
+
+This line was added in feature-2 branch
